@@ -1,0 +1,204 @@
+		*{
+			padding: 0px;
+			font-family: Arial;
+		}
+		
+		body{
+			background: white;
+
+		}
+
+		div{
+			width: 95%;
+			margin: 0px auto 0px auto;
+		}
+
+div.contenidor{
+	width: 95%;
+	margin: 0px auto 0px auto;
+}
+		header{
+			height: 100px;
+			weight: 100%;
+			text-align: center;
+			line-height: center;
+		}
+
+
+		ul li{
+			list-style: none;
+			line-height: 30px;
+		}
+
+		.clearfix{
+			clear: both;
+		}
+
+		section{
+		}
+
+		article{
+			float: left;
+			width: 75%;
+			background: #5AA3F1;
+			height: 80%;
+			padding: 40px;
+			color: white;
+			font: bold;
+		}
+
+		article.galeria{
+			float: left;
+			width: 75%;
+			background: #5AA3F1;
+			height: 80%;
+			padding: 40px;
+			color: white;
+			font: bold;
+		}
+
+
+
+		footer{
+			background: darkblue;
+			color: white;
+			text-align: center;
+			line-height: 50px;
+			height: 50px;
+		}
+		P{
+			text-align: justify;
+		}
+		
+
+
+
+		body.GalleryBody{
+
+		}
+
+
+
+		header.GalleryHeader{
+			height: 100px;
+			width: 100%;
+			margin: 0px;
+			text-align: center;
+			line-height: 100px;
+		}
+
+		section{
+			float: left;
+			width: 100%;
+			min-height: 500px;
+		}
+
+		article.GaleriaArticle{
+			color: white;
+			margin: 0px;
+		}
+
+		footer.GalleryFooter{
+			background: darkblue;
+			color: white;
+			text-align: center;
+			line-height: 50px;
+			height: 50px;
+		}
+		P{
+			text-align: justify;
+		}
+
+
+		}
+ 
+		aside{
+			float: left;
+			width: 18%;
+			text-align: center;
+			padding-left: 10px;
+			padding-right: 10px;
+			overflow: hidden;
+		}
+
+		a:hover{ 
+
+ 			font-style: Arial, Helvetica, sans-serif; 
+ 			font-size: 16px;
+			Style: normal;
+ 			font-weight: bold;
+ 			color: yellow;
+		}
+ 
+
+ 
+
+		a:active{
+
+			font-style: Arial, Helvetica, sans-serif;
+			font-size: 14px;
+			font-style: normal; 
+			font-weight: bold; 
+			color: blue; 
+			text-decoration: none; 
+		}
+
+ 
+h1 { text-align: center; }
+body > p  { text-align: justify; margin: 0 40px; }
+#principal { width: 800px; height: 800px; background-color: silver; margin:auto; }
+div p  { padding: 5px }
+div#caixa1  { width: 180px; height: 100px; background-color: red; margin: 25px; float: left; }
+div#caixa2  { width: 180px; height: 100px; background-color: aqua; margin: 25px; float: left; }
+div#caixa3  { width: 180px; height: 100px; background-color: aqua; margin: 25px; float: right; }
+div#caixa4  { width: 180px; height: 100px; background-color: green; margin: 25px; float: left; }
+div#caixa5  { width: 180px; height: 100px; background-color: aqua; margin: 25px; float: right; }
+div#caixa6  { width: 180px; height: 100px; background-color: red; margin: 25px; float: right; }
+div#caixa7  { width: 180px; height: 100px; background-color: yellow; margin: 25px; float: left; }
+
+
+
+div.Posicio {
+ width : 700px ;
+    background-color: blue;
+}
+div.Posicio1 {
+    background-color: green;
+}
+div.Posicio2 {
+ float : left ;
+ width : 150px ;
+    background-color: cyan;
+}
+div.Posicio3 {
+ float : left ;
+ width : 550px ;
+    background-color: brown;
+}
+div.Posicio4 {
+ clear : both ;
+ background-color: yellow;
+}
+
+
+
+		}
+
+		nav.nav{
+			color: white;
+		}
+
+		header.roger{
+			height: 100px;
+			width: 100%;
+			margin: 0px;
+			text-align: center;
+			line-height: 100px;
+		}
+
+		article.roger{
+			float: left;
+			width: 100%;
+			color: white;
+			margin: 0px;
+		}
